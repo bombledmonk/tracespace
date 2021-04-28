@@ -33,6 +33,7 @@ Arduino Uno design files used under the terms of the [Creative Commons Attributi
   <img
     title='arduino uno cmp'
     src='https://unpkg.com/gerber-to-svg@latest/example/arduino-uno.cmp.svg'
+    style="background-color:white"
   >
 
   <h4>drill hits</h4>
